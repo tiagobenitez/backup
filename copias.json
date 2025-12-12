@@ -3,14 +3,21 @@
         "usuario": "root",
         "contrasena": "",
         "bd": "miguelhogar",
-        "hora": "2025-12-4 20:41:00",
-        "ruta": "C:\\Users\\mauri\\OneDrive\\Escritorio\\BackupsMySQL\\miguelhogar_backup_2025-12-4_20-41.sql"
+        "hora": "2025-12-4 21:13:00",
+        "ruta": "C:/Users/mauri/OneDrive/Escritorio/BackupsMySQL\\miguelhogar_backup_2025-12-4_21-13.sql"
     },
     {
         "usuario": "root",
         "contrasena": "",
-        "bd": "miguelhogar",
-        "hora": "2025-12-4 21:7:00",
-        "ruta": "C:/Users/mauri/OneDrive/Escritorio/BackupsMySQL\\miguelhogar_backup_2025-12-4_21-7.sql"
+        "bd": "miguelhogar.clientes",
+        "hora": "2025-12-11 18:34:41",
+        "ruta": "C:/Users/mauri/OneDrive/Escritorio/BackupsMySQL\\miguelhogar_TABLA_clientes_2025-12-11_18-34-40.sql"
+    },
+    {
+        "usuario": "root",
+        "contrasena": "",
+        "bd": "miguelhogar.clientes",
+        "hora": "2025-12-11 18:43:21",
+        "ruta": "C:/Users/mauri/OneDrive/Escritorio/BackupsMySQL\\miguelhogar_TABLAS_clientes_2025-12-11_18-43-20.zip"
     }
 ]

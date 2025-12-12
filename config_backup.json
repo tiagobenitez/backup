@@ -1,0 +1,7 @@
+{
+    "carpeta_origen": "",
+    "carpeta_destino": "",
+    "frecuencia": "diaria",
+    "hora": "12:00",
+    "max_backups": 5
+}
