@@ -1,0 +1,16 @@
+[
+    {
+        "usuario": "root",
+        "contrasena": "",
+        "bd": "miguelhogar",
+        "hora": "2025-12-4 20:41:00",
+        "ruta": "C:\\Users\\mauri\\OneDrive\\Escritorio\\BackupsMySQL\\miguelhogar_backup_2025-12-4_20-41.sql"
+    },
+    {
+        "usuario": "root",
+        "contrasena": "",
+        "bd": "miguelhogar",
+        "hora": "2025-12-4 21:7:00",
+        "ruta": "C:/Users/mauri/OneDrive/Escritorio/BackupsMySQL\\miguelhogar_backup_2025-12-4_21-7.sql"
+    }
+]
